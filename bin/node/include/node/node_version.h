@@ -1,12 +1,12 @@
 #ifndef SRC_NODE_VERSION_H_
 #define SRC_NODE_VERSION_H_
 
-#define NODE_MAJOR_VERSION 4
-#define NODE_MINOR_VERSION 3
-#define NODE_PATCH_VERSION 1
+#define NODE_MAJOR_VERSION 6
+#define NODE_MINOR_VERSION 9
+#define NODE_PATCH_VERSION 5
 
 #define NODE_VERSION_IS_LTS 1
-#define NODE_VERSION_LTS_CODENAME "Argon"
+#define NODE_VERSION_LTS_CODENAME "Boron"
 
 #define NODE_VERSION_IS_RELEASE 1
 
@@ -52,6 +52,6 @@
  * an API is broken in the C++ side, including in v8 or
  * other dependencies.
  */
-#define NODE_MODULE_VERSION 46 /* Node.js v4.0.0 */
+#define NODE_MODULE_VERSION 48 /* Node.js v6.0.0 */
 
-#endif  /* SRC_NODE_VERSION_H_ */
+#endif  // SRC_NODE_VERSION_H_

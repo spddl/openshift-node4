@@ -3,9 +3,9 @@ Cartridge-Short-Name: NODE4
 Display-Name: node v4
 Description: "Node.js v4 cartridge"
 Version: '1.0.0'
-Source-Url: https://github.com/connyay/openshift-node4.git
+Source-Url: https://github.com/spddl/openshift-node4.git
 License: "Apache v2"
-License-Url: https://github.com/connyay/openshift-node4/blob/master/LICENSE
+License-Url: https://github.com/spddl/openshift-node4/blob/master/LICENSE
 Cartridge-Version: 0.1
 Compatible-Versions: ['0.1']
 Cartridge-Vendor: connyay
